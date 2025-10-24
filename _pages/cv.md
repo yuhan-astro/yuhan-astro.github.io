@@ -15,10 +15,7 @@ redirect_from:
     Ph.D. in Astrophysics, Shanghai Astronomical Observatory, Chinese Academy of Sciences, 2028 (expected)
     <ul>
       <li>
-        Visiting Scholar, 
-        <a href="https://www.asiaa.sinica.edu.tw/" target="_blank" rel="noopener noreferrer">
-        Institute of Astronomy and Astrophysics, Academia Sinica (ASIAA)
-        </a>, Nov. 2024 – Dec. 2025
+        Visiting Scholar, Institute of Astronomy and Astrophysics, Academia Sinica (ASIAA), Nov. 2024 – Dec. 2025
       </li>
     </ul>
   </li>
