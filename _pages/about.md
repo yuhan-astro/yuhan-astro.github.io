@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "About me &#128029;"
+title: "Yuhan Yang"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
+## About me 🐝
 
 <h3>Hi there, I'm Yuhan Yang &#128075;</h3>
 
