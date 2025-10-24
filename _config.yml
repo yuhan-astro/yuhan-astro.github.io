@@ -23,7 +23,7 @@ repository               : "yuhan-astro/yuhan-astro.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_yuhan.png"
+  avatar           : "profile_yuhan.jpg"
   name             : "杨雨涵 Yuhan Yang🏄🏻‍♀️"
   pronouns         : # example: "she/her"  
   bio: '<div style="text-align:center"><strong>PhD Student</strong></div>'
