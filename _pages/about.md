@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: "About me &#128029;"
+title: "About me &#128029;" # 保持这个，它控制页面主体的大标题
 author_profile: true
+seo_title: "Yuhan Yang" # <-- 新增这一行！这会覆盖浏览器标签页的标题。
 redirect_from: 
   - /about/
   - /about.html
