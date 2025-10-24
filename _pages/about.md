@@ -9,7 +9,7 @@ redirect_from:
 
 <h3>Hi there, I'm Yuhan Yang &#128075;</h3>
 <p align="justify">
-I am currently a PhD student at the <a href="https://english.shao.ac.cn/" target="_blank" rel="noopener noreferrer">Shanghai Astronomical Observatory</a>, Chinese Academy of Sciences (CAS), majoring in Astrophysics, supervised by <a href="https://scholar.google.com/citations?hl=en&user=9jmhWdcAAAAJ&view_op=list_works" target="_blank" rel="noopener noreferrer">Dr. Tie Liu</a>. My current research focuses on submillimeter variability in massive proto-clusters.
+I am currently a PhD student at the <a href="https://english.shao.ac.cn/" target="_blank" rel="noopener noreferrer">Shanghai Astronomical Observatory</a>, Chinese Academy of Sciences (CAS), majoring in Astrophysics, supervised by <a href="https://scholar.google.com/citations?hl=en&user=9jmhWdcAAAAJ&view_op=list_works" target="_blank" rel="noopener noreferrer">Dr. Tie Liu</a>. My research interest is star formation, especially high-mass stars. My current research focuses on submillimeter variability in massive proto-clusters.
 </p>
 
 <p align="justify">
