@@ -11,9 +11,20 @@ redirect_from:
 {% include base_path %}
 <h2>Education</h2>
 <ul>
-<li>Ph.D in Astrophysics, Shanghai Astronomical Observatory, Chinese Academy of Sciences, 2028 (expected)</li>
-<li>B.S. in Astronomy, Yunnan University, 2023</li>
+  <li>
+    Ph.D. in Astrophysics, Shanghai Astronomical Observatory, Chinese Academy of Sciences, 2028 (expected)
+    <ul>
+      <li>
+        Visiting Scholar, 
+        <a href="https://www.asiaa.sinica.edu.tw/" target="_blank" rel="noopener noreferrer">
+        Institute of Astronomy and Astrophysics, Academia Sinica (ASIAA)
+        </a>, Nov. 2024 – Dec. 2025
+      </li>
+    </ul>
+  </li>
+  <li>B.S. in Astronomy, Yunnan University, 2023</li>
 </ul>
+
 
   
 <h2>Publications</h2>
@@ -27,7 +38,11 @@ redirect_from:
   
 </ul>
 
+<h2>Honors/Awards Received</h2>
+<ul>
   
+</ul>
+
 <h2>Skills</h2>
 <ul>
   
