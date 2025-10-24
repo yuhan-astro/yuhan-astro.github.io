@@ -24,7 +24,7 @@ repository               : "yuhan-astro/yuhan-astro.github.io"
 author:
   # Biographic information
   avatar           : "profile_yuhan.png"
-  name             : "杨雨涵 Yuhan Yang 🏄🏻‍♀️"
+  name: '<div style="text-align:center">杨雨涵 Yuhan Yang 🏄🏻‍♀️</div>'
   pronouns         : # example: "she/her"  
   bio: '<div style="text-align:center"><strong>PhD Student</strong></div>'
   location         : "Shanghai, China"
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0000-0178-7472"
