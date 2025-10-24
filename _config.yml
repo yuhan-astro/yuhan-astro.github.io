@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student"
   location         : "Shanghai, China"
-  employer: '<span style="display:block; text-align:left;">Shanghai Astronomical Observatory,<br>Chinese Academy of Sciences</span>'
+  employer         : "Shanghai Astronomical Observatory, CAS"
   uri              : # URL
   email            : "yangyuhan@shao.ac.cn" 
 
