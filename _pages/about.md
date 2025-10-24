@@ -1,15 +1,14 @@
 ---
 permalink: /
-title: "Yuhan Yang"
+title: "About me &#128029;"
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
-## About me 🐝
+
 
 <h3>Hi there, I'm Yuhan Yang &#128075;</h3>
-
 <p align="justify">
 I am currently a PhD student at the 
 <a href="https://english.shao.ac.cn/" target="_blank" rel="noopener noreferrer">Shanghai Astronomical Observatory</a>, 
