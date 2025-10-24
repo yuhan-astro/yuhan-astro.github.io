@@ -1,11 +1,19 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "CV &#128103;&#127995;"
+permalink: cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+<a href="../files/CV-Sihong Wu.pdf" target="_blank" rel="noopener noreferrer">&#128196; Download my full CV in PDF</a>
+
+{% include base_path %}
+<h2>Education</h2>
+<ul>
+<li>Ph.D in Astrophysics, Shanghai Astronomical Observatory, Chinese Academy of Sciences, 2028 (expected)</li>
+<li>B.S. in Astronomy, Yunnan University in China, 2023</li>
+</ul>
 
 {% include base_path %}
 
