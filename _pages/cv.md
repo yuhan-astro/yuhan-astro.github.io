@@ -16,12 +16,6 @@ redirect_from:
 </ul>
 
   
-<h2>Skills</h2>
-<ul>
-  
-</ul>
-
-  
 <h2>Publications</h2>
 <ul>
   
@@ -33,6 +27,11 @@ redirect_from:
   
 </ul>
 
+  
+<h2>Skills</h2>
+<ul>
+  
+</ul>
 
 <h2>Service and leadership</h2>
 <ul>
