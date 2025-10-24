@@ -12,16 +12,8 @@ redirect_from:
 <h2>Education</h2>
 <ul>
 <li>Ph.D in Astrophysics, Shanghai Astronomical Observatory, Chinese Academy of Sciences, 2028 (expected)</li>
-<li>B.S. in Astronomy, Yunnan University in China, 2023</li>
+<li>B.S. in Astronomy, Yunnan University, 2023</li>
 </ul>
-
-{% include base_path %}
-
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
 Work experience
 ======
