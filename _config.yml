@@ -24,11 +24,11 @@ repository               : "yuhan-astro/yuhan-astro.github.io"
 author:
   # Biographic information
   avatar           : "profile_yuhan.png"
-  name             : "杨雨涵 Yuhan Yang"
+  name             : "杨雨涵 Yuhan Yang🏄🏻‍♀️"
   pronouns         : # example: "she/her"  
-  bio              : "<strong>PhD Student</strong><br>"
+  bio: '<div style="text-align:center"><strong>PhD Student</strong></div>'
   location         : "Shanghai, China"
-  employer         : "Shanghai Astronomical Observatory, Chinese Academy of Sciences"
+  employer: "Shanghai Astronomical Observatory,<br>Chinese Academy of Sciences"
   uri              : # URL
   email            : "yangyuhan@shao.ac.cn" 
 
